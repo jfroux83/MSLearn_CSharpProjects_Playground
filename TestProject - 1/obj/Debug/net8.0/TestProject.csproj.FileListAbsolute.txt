@@ -1,0 +1,28 @@
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\bin\Debug\net8.0\TestProject.exe
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\bin\Debug\net8.0\TestProject.dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\bin\Debug\net8.0\TestProject.pdb
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\obj\Debug\net8.0\TestProject.dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\obj\Debug\net8.0\TestProject.pdb
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 1\obj\Debug\net8.0\ref\TestProject.dll

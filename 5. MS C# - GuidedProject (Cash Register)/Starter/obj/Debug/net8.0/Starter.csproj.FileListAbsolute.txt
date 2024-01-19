@@ -1,0 +1,14 @@
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\bin\Debug\net8.0\Starter.exe
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\bin\Debug\net8.0\Starter.deps.json
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\bin\Debug\net8.0\Starter.dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\bin\Debug\net8.0\Starter.pdb
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\obj\Debug\net8.0\Starter.dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\obj\Debug\net8.0\refint\Starter.dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\obj\Debug\net8.0\Starter.pdb
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Users\jacques.roux\Desktop\CsharpProjects\5. MS C# - GuidedProject (Cash Register)\Starter\obj\Debug\net8.0\ref\Starter.dll

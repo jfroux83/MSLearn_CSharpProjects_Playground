@@ -1,0 +1,14 @@
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\bin\Debug\net8.0\TestProject - 3 (Zoo).exe
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\bin\Debug\net8.0\TestProject - 3 (Zoo).deps.json
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\bin\Debug\net8.0\TestProject - 3 (Zoo).runtimeconfig.json
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\bin\Debug\net8.0\TestProject - 3 (Zoo).dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\bin\Debug\net8.0\TestProject - 3 (Zoo).pdb
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\obj\Debug\net8.0\TestProject - 3 (Zoo).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\obj\Debug\net8.0\TestProject - 3 (Zoo).AssemblyInfoInputs.cache
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\obj\Debug\net8.0\TestProject - 3 (Zoo).AssemblyInfo.cs
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\obj\Debug\net8.0\TestProject - 3 (Zoo).csproj.CoreCompileInputs.cache
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\obj\Debug\net8.0\TestProject - 3 (Zoo).dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\obj\Debug\net8.0\refint\TestProject - 3 (Zoo).dll
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\obj\Debug\net8.0\TestProject - 3 (Zoo).pdb
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\obj\Debug\net8.0\TestProject - 3 (Zoo).genruntimeconfig.cache
+C:\Users\jacques.roux\Desktop\CsharpProjects\TestProject - 3 (Zoo)\obj\Debug\net8.0\ref\TestProject - 3 (Zoo).dll
